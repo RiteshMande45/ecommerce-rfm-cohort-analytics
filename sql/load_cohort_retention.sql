@@ -1,0 +1,13 @@
+INSERT INTO cohort_retention (CohortMonth, CohortSize, M0, M1, M2, M3, M4, M5) VALUES ('2010-12', 885, 100.0, 36.6, 32.3, 38.4, 36.3, 39.8) ON CONFLICT (CohortMonth) DO NOTHING;
+INSERT INTO cohort_retention (CohortMonth, CohortSize, M0, M1, M2, M3, M4, M5) VALUES ('2011-01', 417, 100.0, 22.1, 26.6, 23.0, 32.1, 28.8) ON CONFLICT (CohortMonth) DO NOTHING;
+INSERT INTO cohort_retention (CohortMonth, CohortSize, M0, M1, M2, M3, M4, M5) VALUES ('2011-02', 380, 100.0, 18.7, 18.7, 28.4, 27.1, 24.7) ON CONFLICT (CohortMonth) DO NOTHING;
+INSERT INTO cohort_retention (CohortMonth, CohortSize, M0, M1, M2, M3, M4, M5) VALUES ('2011-03', 452, 100.0, 15.0, 25.2, 19.9, 22.3, 16.8) ON CONFLICT (CohortMonth) DO NOTHING;
+INSERT INTO cohort_retention (CohortMonth, CohortSize, M0, M1, M2, M3, M4, M5) VALUES ('2011-04', 300, 100.0, 21.3, 20.3, 21.0, 19.7, 22.7) ON CONFLICT (CohortMonth) DO NOTHING;
+INSERT INTO cohort_retention (CohortMonth, CohortSize, M0, M1, M2, M3, M4, M5) VALUES ('2011-05', 284, 100.0, 19.0, 17.3, 17.3, 20.8, 23.2) ON CONFLICT (CohortMonth) DO NOTHING;
+INSERT INTO cohort_retention (CohortMonth, CohortSize, M0, M1, M2, M3, M4, M5) VALUES ('2011-06', 242, 100.0, 17.4, 15.7, 26.4, 23.1, 33.5) ON CONFLICT (CohortMonth) DO NOTHING;
+INSERT INTO cohort_retention (CohortMonth, CohortSize, M0, M1, M2, M3, M4, M5) VALUES ('2011-07', 188, 100.0, 18.1, 20.7, 22.3, 27.1, 11.2) ON CONFLICT (CohortMonth) DO NOTHING;
+INSERT INTO cohort_retention (CohortMonth, CohortSize, M0, M1, M2, M3, M4, M5) VALUES ('2011-08', 169, 100.0, 20.7, 24.9, 24.3, 12.4, 0.0) ON CONFLICT (CohortMonth) DO NOTHING;
+INSERT INTO cohort_retention (CohortMonth, CohortSize, M0, M1, M2, M3, M4, M5) VALUES ('2011-09', 299, 100.0, 23.4, 30.1, 11.4, 0.0, 0.0) ON CONFLICT (CohortMonth) DO NOTHING;
+INSERT INTO cohort_retention (CohortMonth, CohortSize, M0, M1, M2, M3, M4, M5) VALUES ('2011-10', 358, 100.0, 24.0, 11.5, 0.0, 0.0, 0.0) ON CONFLICT (CohortMonth) DO NOTHING;
+INSERT INTO cohort_retention (CohortMonth, CohortSize, M0, M1, M2, M3, M4, M5) VALUES ('2011-11', 323, 100.0, 11.1, 0.0, 0.0, 0.0, 0.0) ON CONFLICT (CohortMonth) DO NOTHING;
+INSERT INTO cohort_retention (CohortMonth, CohortSize, M0, M1, M2, M3, M4, M5) VALUES ('2011-12', 41, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0) ON CONFLICT (CohortMonth) DO NOTHING;
